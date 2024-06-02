@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Background-->
+    <color name="backgroundStateDisable">@color/grey40</color>
+    <color name="backgroundOverlay">@color/grey40</color>
+    <color name="BackgroundAccent">@color/blue50</color>
+    <color name="BackgroundNegative">@color/red50</color>
+    <color name="BackgroundWarning">@color/yellow50</color>
+    <color name="BackgroundPositive">@color/green50</color>
+    <color name="backgroundLightAccent">@color/blue0</color>
+    <color name="backgroundLightNegative">@color/red0</color>
+    <color name="BackgroundLightWarning">@color/yellow0</color>
+    <color name="BackgroundLightPositive">@color/green0</color>
+
+
+    <!--    Content-->
+    <color name="contentPlaceHolder">@color/grey10</color>
+    <color name="contentStateDisabled">#B0BEC5</color> <!--//todo (check color again-->
+    <color name="contentOnColor">@color/white</color>
+    <color name="contentAccent">#1E88E5</color>
+    <color name="contentNegative">@color/red50</color>
+    <color name="contentWarning">@color/yellow80</color>
+    <color name="contentPositive">@color/green5</color>
+
+<!--    Border-->
+    <color name="borderAccent">@color/blue5</color>
+    <color name="borderNegative">@color/red5</color>
+    <color name="borderWarning">@color/yellow10</color>
+    <color name="borderPositive">@color/green5</color>
+
+
+</resources>

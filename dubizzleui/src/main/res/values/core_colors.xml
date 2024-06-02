@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    background-->
+    <color name="background_primary">#F0F0F0</color>
+    <color name="backgroundSecondary">#F0F0F0</color>
+    <color name="backgroundTertiary">@color/grey0</color>
+    <color name="BackgroundPrimaryInverse">@color/grey90</color>
+
+
+    <!--    CONTENT-->
+    <color name="contentPrimary">@color/grey90</color>
+    <color name="contentSecondary">@color/grey30</color>
+    <color name="contentPrimaryInverse">@color/white</color>
+
+    <!--    Border-->
+    <color name="borderPrimary">@color/grey5</color>
+    <color name="borderSecondary">@color/grey0</color>
+    <color name="borderSelected">@color/grey90</color>
+
+
+</resources>
