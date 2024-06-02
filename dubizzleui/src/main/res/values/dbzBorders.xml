@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dbzBorderRadius4dp">4dp</dimen>
+    <dimen name="dbzBorderRadius6dp">6dp</dimen>
+    <dimen name="dbzBorderRadius8dp">8dp</dimen>
+
+</resources>
