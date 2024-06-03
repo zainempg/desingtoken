@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">DubizzleUI</string>
+    <string name="app_name" translatable="false">DubizzleUI</string>
+    <string name="change_language">Change Language</string>
+    <string name="dbztextappearenceheadingl">dbzTextAppearenceHeadingL</string>
+    <string name="dbztextappearenceheadingm">dbzTextAppearenceHeadingM</string>
+    <string name="dbztextappearenceheadings">dbzTextAppearenceHeadingS</string>
+    <string name="dbztextappearenceheadingxs">dbzTextAppearenceHeadingXS</string>
+    <string name="paragraph_small">Paragraph Small</string>
+    <string name="paragraph_medium">Paragraph Medium</string>
+    <string name="paragraph_large">Paragraph Large</string>
+    <string name="label_small">Label Small</string>
+    <string name="label_medium">Label Medium</string>
+    <string name="label_large">Label Large</string>
+    <string name="lables">Lables</string>
+    <string name="headings">Headings</string>
+    <string name="paragraph">Paragraph</string>
 </resources>

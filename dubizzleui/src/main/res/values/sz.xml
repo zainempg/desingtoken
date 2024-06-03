@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Sizes-->
+
+    <dimen name="Sz16">16dp</dimen>
+    <dimen name="Sz24">24dp</dimen>
+    <dimen name="Sz32">32dp</dimen>
+    <dimen name="Sz36">36dp</dimen>
+    <dimen name="Sz40">40dp</dimen>
+    <dimen name="Sz44">44dp</dimen>
+    <dimen name="Sz48">48dp</dimen>
+
+
+</resources>

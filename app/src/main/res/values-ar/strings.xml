@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="dbztextappearenceheadingl">عنوان كبير</string>
+    <string name="dbztextappearenceheadingm">عنوان متوسط</string>
+    <string name="dbztextappearenceheadings">عنوان صغير</string>
+    <string name="dbztextappearenceheadingxs">عنوان صغير جدا</string>
+    <string name="paragraph_small">فقرة صغيرة</string>
+    <string name="paragraph_medium">فقرة متوسطة</string>
+    <string name="paragraph_large">فقرة كبيرة</string>
+    <string name="label_small">علامة صغيرة</string>
+    <string name="label_medium">علامة متوسطة</string>
+    <string name="label_large">علامة كبيرة</string>
+    <string name="lables">علامات</string>
+    <string name="headings">عناوين</string>
+    <string name="paragraph">فقرة</string>
+</resources>

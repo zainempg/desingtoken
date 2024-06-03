@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!--Headings-->
-    <style name="Heading" parent="@android:style/TextAppearance">
+    <style name="Semibold" parent="@android:style/TextAppearance">
         <item name="android:fontFamily">@font/semi_bold</item>
     </style>
+
+    <style name="Bold" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="Regular" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+
+    <!--Headings-->
+
+    <style name="Heading" parent="Semibold" />
 
     <style name="Heading.L">
         <item name="android:textSize">28sp</item>
@@ -21,4 +33,39 @@
     <style name="Heading.XS">
         <item name="android:textSize">18sp</item>
     </style>
+
+
+    <!--Label-->
+    <style name="Label" parent="Semibold" />
+
+
+    <style name="Label.L">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Label.M">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Label.S">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!--    Paragraph-->
+
+    <style name="Paragraph" parent="Semibold" />
+
+    <style name="Paragraph.L">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Paragraph.M">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Paragraph.S">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
 </resources>

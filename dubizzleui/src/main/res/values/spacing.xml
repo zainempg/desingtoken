@@ -3,15 +3,15 @@
 
     <!--    spacing-->
 
-    <dimen name="dbzSize2Sp">2sp</dimen>
-    <dimen name="dbzSize4Sp">4sp</dimen>
-    <dimen name="dbzSize6Sp">6sp</dimen>
-    <dimen name="dbzSize8Sp">8sp</dimen>
-    <dimen name="dbzSize10Sp">10sp</dimen>
-    <dimen name="dbzSize12Sp">12sp</dimen>
-    <dimen name="dbzSize14Sp">14sp</dimen>
-    <dimen name="dbzSize16Sp">16sp</dimen>
-    <dimen name="dbzSize24Sp">24sp</dimen>
+    <dimen name="dbzSP2">2sp</dimen>
+    <dimen name="dbzSP4">4sp</dimen>
+    <dimen name="dbzSP6">6sp</dimen>
+    <dimen name="dbzSP8">8sp</dimen>
+    <dimen name="dbzSP10">10sp</dimen>
+    <dimen name="dbzSP12">12sp</dimen>
+    <dimen name="dbzSP14">14sp</dimen>
+    <dimen name="dbzSP16">16sp</dimen>
+    <dimen name="dbzSP24">24sp</dimen>
 
 
 
