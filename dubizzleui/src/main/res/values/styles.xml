@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Headings-->
+    <style name="Heading" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">@font/semi_bold</item>
+    </style>
+
+    <style name="Heading.L">
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="Heading.M">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="Heading.S">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="Heading.XS">
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>
