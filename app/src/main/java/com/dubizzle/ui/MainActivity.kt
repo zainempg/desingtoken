@@ -17,7 +17,6 @@ import com.dubizzle.ui.ui.theme.DubizzleUITheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        TestSDK()
         enableEdgeToEdge()
         setContent {
             DubizzleUITheme {

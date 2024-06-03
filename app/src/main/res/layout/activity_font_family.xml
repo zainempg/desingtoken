@@ -5,13 +5,31 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".FontFamilyActivity">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="dbzTextAppearenceHeadingL"
-        android:textAppearance="@style/Heading.L"
-        />
+        android:textAppearance="@style/Heading.L" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="dbzTextAppearenceHeadingM"
+        android:textAppearance="@style/Heading.M" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="dbzTextAppearenceHeadingS"
+        android:textAppearance="@style/Heading.S" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="dbzTextAppearenceHeadingXS"
+        android:textAppearance="@style/Heading.XS" />
 
 </LinearLayout>
