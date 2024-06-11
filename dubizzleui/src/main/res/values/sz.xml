@@ -3,13 +3,13 @@
 
     <!--    Sizes-->
 
-    <dimen name="Sz16">16dp</dimen>
-    <dimen name="Sz24">24dp</dimen>
-    <dimen name="Sz32">32dp</dimen>
-    <dimen name="Sz36">36dp</dimen>
-    <dimen name="Sz40">40dp</dimen>
-    <dimen name="Sz44">44dp</dimen>
-    <dimen name="Sz48">48dp</dimen>
+    <dimen name="Sz16">@dimen/_16sdp</dimen>
+    <dimen name="Sz24">@dimen/_24sdp</dimen>
+    <dimen name="Sz32">@dimen/_32sdp</dimen>
+    <dimen name="Sz36">@dimen/_36sdp</dimen>
+    <dimen name="Sz40">@dimen/_40sdp</dimen>
+    <dimen name="Sz44">@dimen/_44sdp</dimen>
+    <dimen name="Sz48">@dimen/_48sdp</dimen>
 
 
 </resources>
