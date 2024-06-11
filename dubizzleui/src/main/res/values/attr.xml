@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="heading">
+        <attr name="l" format="reference"/>
+        <attr name="m" format="reference"/>
+        <attr name="s" format="reference"/>
+        <attr name="xs" format="reference"/>
+    </declare-styleable>
+
+</resources>

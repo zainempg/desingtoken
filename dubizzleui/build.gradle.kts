@@ -44,4 +44,9 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+    api (libs.ssp.android)
+    api (libs.sdp.android)
+
+
 }

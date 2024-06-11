@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heading_text_size_l">@dimen/_28ssp</dimen>
+    <dimen name="heading_text_size_m">@dimen/_24ssp</dimen>
+    <dimen name="heading_text_size_s">@dimen/_20ssp</dimen>
+    <dimen name="heading_text_size_xs">@dimen/_20ssp</dimen>
+
+
+
+    <dimen name="label_l">@dimen/_16ssp</dimen>
+    <dimen name="label_m">@dimen/_14ssp</dimen>
+    <dimen name="label_s">@dimen/_12ssp</dimen>
+
+
+    <dimen name="paragraph_l">@dimen/_16ssp</dimen>
+    <dimen name="paragraph_m">@dimen/_14ssp</dimen>
+    <dimen name="paragraph_s">@dimen/_12ssp</dimen>
+
+
+
+
+
+</resources>

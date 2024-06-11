@@ -19,36 +19,36 @@
     <style name="Heading" parent="Semibold" />
 
     <style name="Heading.L">
-        <item name="android:textSize">28sp</item>
+        <item name="android:textSize">@dimen/heading_text_size_l</item>
     </style>
 
     <style name="Heading.M">
-        <item name="android:textSize">24sp</item>
+        <item name="android:textSize">@dimen/heading_text_size_m</item>
+
     </style>
 
     <style name="Heading.S">
-        <item name="android:textSize">20sp</item>
+        <item name="android:textSize">@dimen/heading_text_size_s</item>
     </style>
 
     <style name="Heading.XS">
-        <item name="android:textSize">18sp</item>
+        <item name="android:textSize">@dimen/heading_text_size_xs</item>
     </style>
 
 
     <!--Label-->
     <style name="Label" parent="Semibold" />
 
-
     <style name="Label.L">
-        <item name="android:textSize">16sp</item>
+        <item name="android:textSize">@dimen/label_l</item>
     </style>
 
     <style name="Label.M">
-        <item name="android:textSize">14sp</item>
+        <item name="android:textSize">@dimen/label_m</item>
     </style>
 
     <style name="Label.S">
-        <item name="android:textSize">12sp</item>
+        <item name="android:textSize">@dimen/label_s</item>
     </style>
 
     <!--    Paragraph-->
@@ -56,15 +56,15 @@
     <style name="Paragraph" parent="Semibold" />
 
     <style name="Paragraph.L">
-        <item name="android:textSize">16sp</item>
+        <item name="android:textSize">@dimen/paragraph_l</item>
     </style>
 
     <style name="Paragraph.M">
-        <item name="android:textSize">14sp</item>
+        <item name="android:textSize">@dimen/paragraph_m</item>
     </style>
 
     <style name="Paragraph.S">
-        <item name="android:textSize">12sp</item>
+        <item name="android:textSize">@dimen/paragraph_s</item>
     </style>
 
 

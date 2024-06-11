@@ -115,6 +115,44 @@
 
 
         </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                style="?attr/textAppearanceHeadline1"
+                android:layout_width="wrap_content"
+                app:heading="l"
+
+                android:layout_height="wrap_content"
+                android:text="Heading L"
+                android:textAllCaps="false" />
+
+            <Button
+                style="?attr/textAppearanceHeadline1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Heading M"
+                android:textAllCaps="false" />
+
+            <Button
+                style="?attr/textAppearanceHeadline1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Heading S"
+                android:textAllCaps="false" />
+
+            <Button
+                style="?attr/textAppearanceHeadline1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Heading XS"
+                android:textAllCaps="false" />
+
+        </LinearLayout>
+
     </LinearLayout>
 
 </ScrollView>
