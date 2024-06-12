@@ -1,13 +1,26 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-
+<resources>
 
     <style name="BaseTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
-
         <item name="android:colorPrimary">@color/contentPrimary</item>
         <item name="colorPrimaryInverse">@color/contentPrimaryInverse</item>
-
         <item name="android:colorAccent">@color/contentAccent</item>
         <item name="android:windowBackground">@color/background_primary</item>
+
+        <!--Headers-->
+        <item name="textAppearanceHeadlineLarge">@style/Heading.L</item>
+        <item name="textAppearanceHeadlineMedium">@style/Heading.M</item>
+        <item name="textAppearanceHeadlineSmall">@style/Heading.S</item>
+        <item name="textAppearanceHeadline6">@style/Heading.XS</item>
+        <!--Labels-->
+        <item name="textAppearanceBodyLarge">@style/Label.L</item>
+        <item name="textAppearanceBodyMedium">@style/Label.M</item>
+        <item name="textAppearanceBodySmall">@style/Label.S</item>
+
+        <!--paragraph-->
+        <item name="textAppearanceLabelLarge">@style/Paragraph.L</item>
+        <item name="textAppearanceLabelMedium">@style/Paragraph.M</item>
+        <item name="textAppearanceLabelSmall">@style/Paragraph.S</item>
+
 
 
 

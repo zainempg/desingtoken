@@ -32,25 +32,25 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/dbztextappearenceheadingl"
-                android:textAppearance="@style/Heading.L" />
+                android:textAppearance="?attr/textAppearanceHeadlineLarge" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/dbztextappearenceheadingm"
-                android:textAppearance="@style/Heading.M" />
+                android:textAppearance="?attr/textAppearanceHeadlineMedium" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/dbztextappearenceheadings"
-                android:textAppearance="@style/Heading.S" />
+                android:textAppearance="?attr/textAppearanceHeadlineSmall" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/dbztextappearenceheadingxs"
-                android:textAppearance="@style/Heading.XS" />
+                android:textAppearance="?attr/textAppearanceHeadline6" />
 
         </LinearLayout>
 
@@ -68,19 +68,19 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="@string/label_large"
-                android:textAppearance="@style/Label.L" />
+                android:textAppearance="?attr/textAppearanceBodyLarge" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="@string/label_medium"
-                android:textAppearance="@style/Label.M" />
+                android:textAppearance="?attr/textAppearanceBodyMedium" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="@string/label_small"
-                android:textAppearance="@style/Label.S" />
+                android:textAppearance="?attr/textAppearanceBodySmall" />
 
 
         </LinearLayout>
@@ -99,19 +99,19 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="@string/paragraph_large"
-                android:textAppearance="@style/Paragraph.L" />
+                android:textAppearance="?attr/textAppearanceLabelLarge" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="@string/paragraph_medium"
-                android:textAppearance="@style/Paragraph.M" />
+                android:textAppearance="?attr/textAppearanceLabelMedium" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="@string/paragraph_small"
-                android:textAppearance="@style/Paragraph.S" />
+                android:textAppearance="?attr/textAppearanceLabelSmall" />
 
 
         </LinearLayout>
@@ -122,30 +122,28 @@
             android:orientation="vertical">
 
             <Button
-                style="?attr/textAppearanceHeadline1"
+                style="?attr/textAppearanceHeadlineLarge"
                 android:layout_width="wrap_content"
-                app:heading="l"
-
                 android:layout_height="wrap_content"
                 android:text="Heading L"
                 android:textAllCaps="false" />
 
             <Button
-                style="?attr/textAppearanceHeadline1"
+                style="?attr/textAppearanceHeadlineMedium"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Heading M"
                 android:textAllCaps="false" />
 
             <Button
-                style="?attr/textAppearanceHeadline1"
+                style="?attr/textAppearanceHeadlineSmall"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Heading S"
                 android:textAllCaps="false" />
 
             <Button
-                style="?attr/textAppearanceHeadline1"
+                style="?attr/textAppearanceHeadline6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Heading XS"

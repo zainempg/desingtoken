@@ -3,7 +3,7 @@
     <dimen name="heading_text_size_l">@dimen/_28ssp</dimen>
     <dimen name="heading_text_size_m">@dimen/_24ssp</dimen>
     <dimen name="heading_text_size_s">@dimen/_20ssp</dimen>
-    <dimen name="heading_text_size_xs">@dimen/_20ssp</dimen>
+    <dimen name="heading_text_size_xs">@dimen/_18ssp</dimen>
 
 
 
