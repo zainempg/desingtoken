@@ -5,12 +5,9 @@
     <dimen name="heading_text_size_s">@dimen/_20ssp</dimen>
     <dimen name="heading_text_size_xs">@dimen/_18ssp</dimen>
 
-
-
     <dimen name="label_l">@dimen/_16ssp</dimen>
     <dimen name="label_m">@dimen/_14ssp</dimen>
     <dimen name="label_s">@dimen/_12ssp</dimen>
-
 
     <dimen name="paragraph_l">@dimen/_16ssp</dimen>
     <dimen name="paragraph_m">@dimen/_14ssp</dimen>

@@ -2,19 +2,17 @@ plugins {
 //    alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
     id("com.android.library")
-
+    `maven-publish`
 }
 
+val groupId = "com.dubizzle"
+val artifactId = "ui"
 android {
-    namespace = "com.dubizzle.ui"
+    namespace = "$groupId.$artifactId"
     compileSdk = 34
 
     defaultConfig {
-        minSdk = 24
-//        targetSdk = 34
-//        versionCode = 1
-//        versionName = "1.0"
-
+        minSdk = 23
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -49,4 +47,26 @@ dependencies {
     api (libs.sdp.android)
 
 
+}
+
+publishing {
+    publications {
+        register<MavenPublication>("release") {
+            groupId = groupId
+            artifactId = artifactId
+            version = "0.0.1"
+
+            afterEvaluate {
+                from(components["release"])
+            }
+        }
+
+    }
+
+    repositories {
+        maven {
+            name = "uilib"
+            url = uri("${project.buildDir}/repo")
+        }
+    }
 }

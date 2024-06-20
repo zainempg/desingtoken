@@ -53,7 +53,7 @@
 
     <!--    Paragraph-->
 
-    <style name="Paragraph" parent="Semibold" />
+    <style name="Paragraph" parent="Regular" />
 
     <style name="Paragraph.L">
         <item name="android:textSize">@dimen/paragraph_l</item>

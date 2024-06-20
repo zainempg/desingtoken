@@ -11,6 +11,7 @@
         <item name="textAppearanceHeadlineMedium">@style/Heading.M</item>
         <item name="textAppearanceHeadlineSmall">@style/Heading.S</item>
         <item name="textAppearanceHeadline6">@style/Heading.XS</item>
+
         <!--Labels-->
         <item name="textAppearanceBodyLarge">@style/Label.L</item>
         <item name="textAppearanceBodyMedium">@style/Label.M</item>
@@ -21,10 +22,6 @@
         <item name="textAppearanceLabelMedium">@style/Paragraph.M</item>
         <item name="textAppearanceLabelSmall">@style/Paragraph.S</item>
 
-
-
-
     </style>
-
 
 </resources>
