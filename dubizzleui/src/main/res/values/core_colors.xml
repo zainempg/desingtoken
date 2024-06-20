@@ -14,7 +14,7 @@
     <color name="contentPrimaryInverse">@color/white</color>
 
     <!--    Border-->
-    <color name="borderPrimary">@color/grey5</color>
+    <color name="borderPrimary">#E4E5E7</color>
     <color name="borderSecondary">@color/grey0</color>
     <color name="borderSelected">@color/grey90</color>
 
