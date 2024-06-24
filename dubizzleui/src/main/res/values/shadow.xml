@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dbzShadow4">@dimen/_3sdp</dimen>
+    <dimen name="dbzShadow0">0dp</dimen>
+
+</resources>
