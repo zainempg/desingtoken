@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Sizes-->
+
+    <dimen name="Size16">@dimen/_12sdp</dimen>
+    <dimen name="Size24">@dimen/_19sdp</dimen>
+    <dimen name="Size32">@dimen/_25sdp</dimen>
+    <dimen name="Size36">@dimen/_28sdp</dimen>
+    <dimen name="Size40">@dimen/_32sdp</dimen>
+    <dimen name="Size44">@dimen/_35sdp</dimen>
+    <dimen name="Size48">@dimen/_38sdp</dimen>
+
+
+</resources>

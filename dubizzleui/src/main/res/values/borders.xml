@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <dimen name="Radius4dp">@dimen/_4sdp</dimen>
-    <dimen name="Radius6dp">@dimen/_6sdp</dimen>
-    <dimen name="Radius8dp">@dimen/_8sdp</dimen>
-
-</resources>

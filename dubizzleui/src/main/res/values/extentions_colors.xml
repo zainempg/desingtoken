@@ -29,5 +29,15 @@
     <color name="borderWarning">@color/yellow10</color>
     <color name="borderPositive">@color/green5</color>
 
+<!--    Cta Background-->
+    <color name="dbzCtaBackgroundBlue">@color/blue0</color>
+    <color name="dbzCtaBackgroundRed">@color/red0</color>
+    <color name="dbzCtaBackgroundGreen">@color/green0</color>
+
+<!--    Cta Content-->
+    <color name="dbzCtaContentBlue">@color/blue50</color>
+    <color name="dbzCtaContentRed">@color/red50</color>
+    <color name="dbzCtaContentGreen">@color/green50</color>
+
 
 </resources>

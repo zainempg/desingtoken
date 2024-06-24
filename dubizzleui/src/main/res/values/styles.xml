@@ -1,69 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Semibold" parent="@android:style/TextAppearance">
+    <style name="dbzSemibold" parent="@android:style/TextAppearance">
         <item name="android:fontFamily">@font/semi_bold</item>
+        <item name="fontFamily">@font/semi_bold</item>
     </style>
 
-    <style name="Bold" parent="@android:style/TextAppearance">
+    <style name="dbzBold" parent="@android:style/TextAppearance">
         <item name="android:fontFamily">@font/bold</item>
+        <item name="fontFamily">@font/bold</item>
     </style>
 
-    <style name="Regular" parent="@android:style/TextAppearance">
+    <style name="dbzRegular" parent="@android:style/TextAppearance">
         <item name="android:fontFamily">@font/regular</item>
+        <item name="fontFamily">@font/regular</item>
     </style>
-
 
     <!--Headings-->
+    <style name="dbzHeading" parent="dbzSemibold" >
+        <item name="android:textColor">@color/grey90</item>
+    </style>
 
-    <style name="Heading" parent="Semibold" />
-
-    <style name="Heading.L">
+    <style name="dbzHeading.L">
         <item name="android:textSize">@dimen/heading_text_size_l</item>
     </style>
 
-    <style name="Heading.M">
+    <style name="dbzHeading.M">
         <item name="android:textSize">@dimen/heading_text_size_m</item>
-
     </style>
 
-    <style name="Heading.S">
+    <style name="dbzHeading.S">
         <item name="android:textSize">@dimen/heading_text_size_s</item>
     </style>
 
-    <style name="Heading.XS">
+    <style name="dbzHeading.XS">
         <item name="android:textSize">@dimen/heading_text_size_xs</item>
     </style>
 
 
     <!--Label-->
-    <style name="Label" parent="Semibold" />
+    <style name="dbzLabel" parent="dbzSemibold">
+        <item name="android:textColor">@color/grey90</item>
 
-    <style name="Label.L">
+    </style>
+
+    <style name="dbzLabel.L">
         <item name="android:textSize">@dimen/label_l</item>
     </style>
 
-    <style name="Label.M">
+    <style name="dbzLabel.M">
         <item name="android:textSize">@dimen/label_m</item>
     </style>
 
-    <style name="Label.S">
+    <style name="dbzLabel.S">
         <item name="android:textSize">@dimen/label_s</item>
     </style>
 
     <!--    Paragraph-->
+    <style name="dbzParagraph" parent="dbzRegular">
+        <item name="android:textColor">@color/grey90</item>
 
-    <style name="Paragraph" parent="Regular" />
+    </style>
 
-    <style name="Paragraph.L">
+    <style name="dbzParagraph.L">
         <item name="android:textSize">@dimen/paragraph_l</item>
     </style>
 
-    <style name="Paragraph.M">
+    <style name="dbzParagraph.M">
         <item name="android:textSize">@dimen/paragraph_m</item>
     </style>
 
-    <style name="Paragraph.S">
+    <style name="dbzParagraph.S">
         <item name="android:textSize">@dimen/paragraph_s</item>
     </style>
 

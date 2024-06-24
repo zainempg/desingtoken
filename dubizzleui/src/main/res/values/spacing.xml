@@ -2,18 +2,14 @@
 <resources>
 
     <!--    spacing-->
-
-    <dimen name="dbzSP2">@dimen/_2sdp</dimen>
-    <dimen name="dbzSP4">@dimen/_4sdp</dimen>
-    <dimen name="dbzSP6">@dimen/_6sdp</dimen>
-    <dimen name="dbzSP8">@dimen/_8sdp</dimen>
-    <dimen name="dbzSP10">@dimen/_10sdp</dimen>
-    <dimen name="dbzSP12">@dimen/_12sdp</dimen>
-    <dimen name="dbzSP14">@dimen/_14sdp</dimen>
-    <dimen name="dbzSP16">@dimen/_16sdp</dimen>
-    <dimen name="dbzSP24">@dimen/_24sdp</dimen>
-
-
-
+    <dimen name="dbzSpace2">@dimen/_1sdp</dimen>
+    <dimen name="dbzSpace4">@dimen/_3sdp</dimen>
+    <dimen name="dbzSpace6">@dimen/_4sdp</dimen>
+    <dimen name="dbzSpace8">@dimen/_6sdp</dimen>
+    <dimen name="dbzSpace10">@dimen/_8sdp</dimen>
+    <dimen name="dbzSpace12">@dimen/_9sdp</dimen>
+    <dimen name="dbzSpace14">@dimen/_11sdp</dimen>
+    <dimen name="dbzSpace16">@dimen/_12sdp</dimen>
+    <dimen name="dbzSpace24">@dimen/_19sdp</dimen>
 
 </resources>
