@@ -10,7 +10,7 @@
 
     <!--    CONTENT-->
     <color name="contentPrimary">@color/grey90</color>
-    <color name="contentSecondary">@color/grey30</color>
+    <color name="contentSecondary">@color/grey40</color>
     <color name="contentPrimaryInverse">@color/white</color>
 
     <!--    Border-->

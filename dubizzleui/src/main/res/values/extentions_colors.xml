@@ -2,7 +2,7 @@
 <resources>
 
     <!--    background-->
-    <color name="backgroundStateDisable">@color/grey40</color>
+    <color name="backgroundStateDisable">@color/_4D000000</color>
     <color name="backgroundOverlay">@color/grey40</color>
     <color name="backgroundAccent">@color/blue50</color>
     <color name="backgroundNegative">@color/red50</color>
@@ -15,10 +15,9 @@
 
 
     <!--    Content-->
-    <color name="contentPlaceHolder">@color/grey10</color>
-    <color name="contentStateDisabled">#B0BEC5</color> <!--//todo (check color again-->
+    <color name="contentPlaceHolder">#4D00004D</color>
     <color name="contentOnColor">@color/white</color>
-    <color name="contentAccent">#1E88E5</color>
+    <color name="contentAccent">#@color/_1E88E5</color>
     <color name="contentNegative">@color/red50</color>
     <color name="contentWarning">@color/yellow80</color>
     <color name="contentPositive">@color/green5</color>
@@ -30,9 +29,9 @@
     <color name="borderPositive">@color/green5</color>
 
 <!--    Cta Background-->
-    <color name="dbzCtaBackgroundBlue">@color/blue0</color>
-    <color name="dbzCtaBackgroundRed">@color/red0</color>
-    <color name="dbzCtaBackgroundGreen">@color/green0</color>
+    <color name="dbzCtaBackgroundBlue">@color/E4EFFF</color>
+    <color name="dbzCtaBackgroundRed">@color/FFE6E6</color>
+    <color name="dbzCtaBackgroundGreen">@color/DAF1D9</color>
 
 <!--    Cta Content-->
     <color name="dbzCtaContentBlue">@color/blue50</color>
