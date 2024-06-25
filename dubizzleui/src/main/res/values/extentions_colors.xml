@@ -15,9 +15,9 @@
 
 
     <!--    Content-->
-    <color name="contentPlaceHolder">#4D00004D</color>
+    <color name="contentPlaceHolder">@color/_4D000000</color>
     <color name="contentOnColor">@color/white</color>
-    <color name="contentAccent">#@color/_1E88E5</color>
+    <color name="contentAccent">@color/_1E88E5</color>
     <color name="contentNegative">@color/red50</color>
     <color name="contentWarning">@color/yellow80</color>
     <color name="contentPositive">@color/green5</color>
@@ -29,12 +29,17 @@
     <color name="borderPositive">@color/green5</color>
 
 <!--    Cta Background-->
-    <color name="dbzCtaBackgroundBlue">@color/E4EFFF</color>
-    <color name="dbzCtaBackgroundRed">@color/FFE6E6</color>
-    <color name="dbzCtaBackgroundGreen">@color/DAF1D9</color>
+    <color name="dbzCtaBackgroundBlue">@color/_e4efff</color>
+    <color name="dbzCtaBackgroundRed">@color/_FFE6E6</color>
+    <color name="dbzCtaBackgroundGreen">@color/_DAF1D9</color>
+
+<!--    Cta Active BG-->
+    <color name="dbzCtaActiveBackgroundBlue">@color/_1E88E5</color>
+    <color name="dbzCtaActiveBackgroundRed">@color/red50</color>
+    <color name="dbzCtaActiveBackgroundGreen">@color/green50</color>
 
 <!--    Cta Content-->
-    <color name="dbzCtaContentBlue">@color/blue50</color>
+    <color name="dbzCtaContentBlue">@color/_1E88E5</color>
     <color name="dbzCtaContentRed">@color/red50</color>
     <color name="dbzCtaContentGreen">@color/green50</color>
 
