@@ -34,6 +34,11 @@
     <color name="dbzCtaBackgroundGreen">@color/DAF1D9</color>
 
 <!--    Cta Content-->
+    <color name="dbzCtaActiveBackgroundBlue">@color/blue50</color>
+    <color name="dbzCtaActiveBackgroundRed">@color/red50</color>
+    <color name="dbzCtaActiveBackgroundGreen">@color/green50</color>
+
+<!--    Cta Content-->
     <color name="dbzCtaContentBlue">@color/blue50</color>
     <color name="dbzCtaContentRed">@color/red50</color>
     <color name="dbzCtaContentGreen">@color/green50</color>
