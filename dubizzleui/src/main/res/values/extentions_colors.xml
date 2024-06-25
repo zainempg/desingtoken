@@ -3,8 +3,8 @@
 
     <!--    background-->
     <color name="backgroundStateDisable">@color/_4D000000</color>
-    <color name="backgroundOverlay">@color/grey40</color>
-    <color name="backgroundAccent">@color/blue50</color>
+    <color name="backgroundOverlay">@color/_4D000000</color>
+    <color name="backgroundAccent">@color/_1E88E5</color>
     <color name="backgroundNegative">@color/red50</color>
     <color name="backgroundWarning">@color/yellow50</color>
     <color name="backgroundPositive">@color/green50</color>
@@ -15,12 +15,12 @@
 
 
     <!--    Content-->
-    <color name="contentPlaceHolder">@color/_4D000000</color>
+    <color name="contentPlaceHolder">@color/grey10</color>
     <color name="contentOnColor">@color/white</color>
     <color name="contentAccent">@color/_1E88E5</color>
     <color name="contentNegative">@color/red50</color>
     <color name="contentWarning">@color/yellow80</color>
-    <color name="contentPositive">@color/green5</color>
+    <color name="contentPositive">@color/green50</color>
 
 <!--    Border-->
     <color name="borderAccent">@color/blue5</color>
