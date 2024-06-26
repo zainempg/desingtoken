@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <attr name="headingL" format="reference" />
+    <attr name="headingM" format="reference" />
+    <attr name="headingS" format="reference" />
+    <attr name="headingXS" format="reference" />
+
+
+    <attr name="labelL" format="reference" />
+    <attr name="labelM" format="reference" />
+    <attr name="labelS" format="reference" />
+    <attr name="labelXS" format="reference" />
+
+    <attr name="paragraphL" format="reference" />
+    <attr name="paragraphM" format="reference" />
+    <attr name="paragraphS" format="reference" />
+    <attr name="paragraphXS" format="reference" />
+
 </resources>

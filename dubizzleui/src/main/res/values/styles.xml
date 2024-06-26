@@ -2,18 +2,18 @@
 <resources>
 
     <style name="dbzSemibold" parent="@android:style/TextAppearance">
-        <item name="android:fontFamily">@font/semi_bold</item>
-        <item name="fontFamily">@font/semi_bold</item>
+        <item name="android:fontFamily">@font/dbz_semi_bold</item>
+        <item name="fontFamily">@font/dbz_semi_bold</item>
     </style>
 
     <style name="dbzBold" parent="@android:style/TextAppearance">
-        <item name="android:fontFamily">@font/bold</item>
-        <item name="fontFamily">@font/bold</item>
+        <item name="android:fontFamily">@font/dbz_bold</item>
+        <item name="fontFamily">@font/dbz_bold</item>
     </style>
 
     <style name="dbzRegular" parent="@android:style/TextAppearance">
-        <item name="android:fontFamily">@font/regular</item>
-        <item name="fontFamily">@font/regular</item>
+        <item name="android:fontFamily">@font/dbz_regular</item>
+        <item name="fontFamily">@font/dbz_regular</item>
     </style>
 
     <!--Headings-->
@@ -55,6 +55,9 @@
     <style name="dbzLabel.S">
         <item name="android:textSize">@dimen/label_s</item>
     </style>
+    <style name="dbzLabel.XS">
+        <item name="android:textSize">@dimen/label_xs</item>
+    </style>
 
     <!--    Paragraph-->
     <style name="dbzParagraph" parent="dbzRegular">
@@ -72,6 +75,9 @@
 
     <style name="dbzParagraph.S">
         <item name="android:textSize">@dimen/paragraph_s</item>
+    </style>
+    <style name="dbzParagraph.XS">
+        <item name="android:textSize">@dimen/paragraph_xs</item>
     </style>
 
 

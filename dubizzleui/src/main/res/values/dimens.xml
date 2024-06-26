@@ -8,10 +8,12 @@
     <dimen name="label_l">@dimen/_13ssp</dimen>
     <dimen name="label_m">@dimen/_11ssp</dimen>
     <dimen name="label_s">@dimen/_9ssp</dimen>
+    <dimen name="label_xs">@dimen/_8ssp</dimen>
 
     <dimen name="paragraph_l">@dimen/_13ssp</dimen>
     <dimen name="paragraph_m">@dimen/_11ssp</dimen>
     <dimen name="paragraph_s">@dimen/_9ssp</dimen>
+    <dimen name="paragraph_xs">@dimen/_8ssp</dimen>
 
 
 

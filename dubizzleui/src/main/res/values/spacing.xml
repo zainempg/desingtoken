@@ -2,8 +2,8 @@
 <resources>
 
     <!--    spacing-->
-    <dimen name="dbzSpace2">@dimen/_1sdp</dimen>
-    <dimen name="dbzSpace4">@dimen/_3sdp</dimen>
+    <dimen name="dbzSpace2">@dimen/_2sdp</dimen>
+    <dimen name="dbzSpace4">@dimen/_4sdp</dimen>
     <dimen name="dbzSpace6">@dimen/_5sdp</dimen>
     <dimen name="dbzSpace8">@dimen/_7sdp</dimen>
     <dimen name="dbzSpace10">@dimen/_8sdp</dimen>

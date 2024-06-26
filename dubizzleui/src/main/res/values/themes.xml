@@ -6,21 +6,28 @@
         <item name="android:colorAccent">@color/contentAccent</item>
         <item name="android:windowBackground">@color/background_primary</item>
 
+
         <!--Headers-->
-        <item name="textAppearanceHeadlineLarge">@style/dbzHeading.L</item>
-        <item name="textAppearanceHeadlineMedium">@style/dbzHeading.M</item>
-        <item name="textAppearanceHeadlineSmall">@style/dbzHeading.S</item>
-        <item name="textAppearanceHeadline6">@style/dbzHeading.XS</item>
+        <item name="headingL">@style/dbzHeading.L</item>
+        <item name="headingM">@style/dbzHeading.M</item>
+        <item name="headingS">@style/dbzHeading.S</item>
+        <item name="headingXS">@style/dbzHeading.XS</item>
 
         <!--Labels-->
-        <item name="textAppearanceBodyLarge">@style/dbzParagraph.L</item>
-        <item name="textAppearanceBodyMedium">@style/dbzParagraph.M</item>
-        <item name="textAppearanceBodySmall">@style/dbzParagraph.S</item>
+        <item name="labelL">@style/dbzLabel.L</item>
+        <item name="labelM">@style/dbzLabel.M</item>
+        <item name="labelS">@style/dbzLabel.S</item>
+        <item name="labelXS">@style/dbzLabel.S</item>
 
         <!--paragraph-->
-        <item name="textAppearanceLabelLarge">@style/dbzLabel.L</item>
-        <item name="textAppearanceLabelMedium">@style/dbzLabel.M</item>
-        <item name="textAppearanceLabelSmall">@style/dbzLabel.S</item>
+        <item name="paragraphL">@style/dbzParagraph.L</item>
+        <item name="paragraphM">@style/dbzParagraph.M</item>
+        <item name="paragraphS">@style/dbzParagraph.S</item>
+        <item name="paragraphXS">@style/dbzParagraph.S</item>
+
+
+
+
 
 
     </style>
