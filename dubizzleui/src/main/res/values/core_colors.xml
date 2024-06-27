@@ -3,7 +3,7 @@
 
     <!--    background-->
     <color name="background_primary">#F0F0F0</color>
-    <color name="backgroundSecondary">#F0F0F0</color>
+    <color name="backgroundSecondary">@color/white</color>
     <color name="backgroundTertiary">@color/grey0</color>
     <color name="BackgroundPrimaryInverse">@color/grey90</color>
 

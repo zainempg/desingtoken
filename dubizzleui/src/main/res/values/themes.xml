@@ -17,13 +17,13 @@
         <item name="labelL">@style/dbzLabel.L</item>
         <item name="labelM">@style/dbzLabel.M</item>
         <item name="labelS">@style/dbzLabel.S</item>
-        <item name="labelXS">@style/dbzLabel.S</item>
+        <item name="labelXS">@style/dbzLabel.XS</item>
 
         <!--paragraph-->
         <item name="paragraphL">@style/dbzParagraph.L</item>
         <item name="paragraphM">@style/dbzParagraph.M</item>
         <item name="paragraphS">@style/dbzParagraph.S</item>
-        <item name="paragraphXS">@style/dbzParagraph.S</item>
+        <item name="paragraphXS">@style/dbzParagraph.XS</item>
 
 
 
